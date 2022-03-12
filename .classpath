@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="DataStructures"/>
 	<classpathentry kind="src" path="JavaPrograms"/>
+	<classpathentry kind="src" path="GForGreeks"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
