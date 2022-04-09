@@ -41,7 +41,6 @@ public class CountSetBits {
 			if((n&1) == 1)
 				res++;
 			n=n >> 1;
-			System.out.println(n);
 		}
 		
 		return res;
